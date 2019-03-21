@@ -3,4 +3,5 @@ class Hash
     arguments.class
     # code goes here
   end
+  keys_of(arguments)
 end
